@@ -42,7 +42,6 @@
     "*": "pnpm run lint --fix"
   },
   "dependencies": {
-    "citty": "^0.1.6",
     "ofetch": "^1.4.1"
   },
   "devDependencies": {

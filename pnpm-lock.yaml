@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      citty:
-        specifier: ^0.1.6
-        version: 0.1.6
       ofetch:
         specifier: ^1.4.1
         version: 1.4.1
