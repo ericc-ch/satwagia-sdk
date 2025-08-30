@@ -5,7 +5,8 @@
     "source.organizeImports": "never"
   },
   "cSpell.words": [
-    "echristian"
+    "echristian",
+    "ofetch"
   ],
   
   "typescript.tsdk": "node_modules/typescript/lib"

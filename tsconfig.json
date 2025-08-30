@@ -5,16 +5,17 @@
     "module": "ESNext",
     "skipLibCheck": true,
     "allowJs": true,
-    
-    "moduleResolution": "Bundler",
+
+    "moduleResolution": "bundler",
     "moduleDetection": "force",
-    "erasableSyntaxOnly": true, 
+    "erasableSyntaxOnly": true,
     "verbatimModuleSyntax": true,
     "noEmit": true,
 
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
+    "exactOptionalPropertyTypes": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   }
