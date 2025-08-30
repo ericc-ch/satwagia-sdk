@@ -1,15 +1,15 @@
 {
-  "name": "pkg-placeholder",
+  "name": "sastwagia-sdk",
   "version": "0.0.0",
   "description": "_description_",
   "keywords": [
-    "pkg-placeholder"
+    "sastwagia-sdk"
   ],
-  "homepage": "https://github.com/ericc-ch/pkg-placeholder",
-  "bugs": "https://github.com/ericc-ch/pkg-placeholder/issues",
+  "homepage": "https://github.com/ericc-ch/sastwagia-sdk",
+  "bugs": "https://github.com/ericc-ch/sastwagia-sdk/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericc-ch/pkg-placeholder.git"
+    "url": "https://github.com/ericc-ch/sastwagia-sdk.git"
   },
   "author": {
     "name": "Erick Christian",
@@ -21,9 +21,6 @@
       "types": "./dist/main.d.ts",
       "default": "./dist/main.js"
     }
-  },
-  "bin": {
-    "pkg-placeholder": "./dist/cli.js"
   },
   "files": [
     "dist"
